@@ -1,2 +1,0 @@
-odin recipe
-recipe website
